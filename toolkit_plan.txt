@@ -1,0 +1,23 @@
+PROJECT PLAN: Personal Mini-Toolkit
+==================================
+
+1. Tools Selected:
+   - Tool 1: To-Do List Manager - Allows users to view, add, and remove tasks from an active task list that updates while running.
+   - Tool 2: Number Guessing Game - Generates a random number between 1 and 50 and prompts the user to guess it with interactive hints.
+   - Tool 3: Tip & Split Calculator - Calculates the total bill with a custom tip percentage and splits it evenly among a given number of people.
+
+2. Exact Menu Text:
+   ==============================
+         MAIN MENU
+   ==============================
+   1. To-Do List Manager
+   2. Number Guessing Game
+   3. Tip & Split Calculator
+   4. Quit
+   ------------------------------
+
+3. Concepts Used:
+   - To-Do List Manager: Lists (mutation with `.append()` and `.pop()`), while loops, conditionals (`if/elif/else`), and f-strings.
+   - Number Guessing Game: `random` module, while loops, comparison conditionals, and `try/except` error handling.
+   - Tip & Split Calculator: Arithmetic operators, type casting, conditionals, and f-strings.
+   - Main Program: Infinite while loop for the menu, input validation, and graceful exit handling.
