@@ -1,0 +1,31 @@
+========================================
+PERSONAL MINI-TOOLKIT PROJECT PLAN
+========================================
+
+1. CHOSEN TOOLS & DESCRIPTIONS:
+----------------------------------------
+- Tool 1: To-Do List Manager
+  Description: Allows users to view, add, and remove tasks from an interactive, dynamic list that updates while the program runs.
+- Tool 2: Number Guessing Game
+  Description: A fun game where the user tries to guess a randomly generated secret number between 1 and 20 with higher/lower hints.
+- Tool 3: Tip & Bill Splitter Calculator
+  Description: Calculates the total tip and splits a restaurant bill evenly among a given number of people based on custom tip percentages.
+
+2. EXACT MENU TEXT:
+----------------------------------------
+========================================
+       WELCOME TO YOUR MINI-TOOLKIT
+========================================
+Please choose a tool from the menu below:
+  1. To-Do List Manager (Manage your tasks)
+  2. Number Guessing Game (Test your luck)
+  3. Tip & Bill Splitter (Calculate shares)
+  4. Quit
+========================================
+Enter your choice (1-4): 
+
+3. CONCEPTS USED PER TOOL:
+----------------------------------------
+- To-Do List Manager: Lists (mutable data), while loops, for loops, conditionals, f-strings.
+- Number Guessing Game: `random` module, while loops, conditionals (`if/elif/else`), f-strings.
+- Tip & Bill Splitter: Conditionals, arithmetic calculations, f-strings for formatted currency output.
